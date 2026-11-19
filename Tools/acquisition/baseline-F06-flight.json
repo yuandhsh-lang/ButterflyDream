@@ -1,0 +1,26 @@
+{
+  "scene_id": "F06",
+  "source_sha256": "da032cdef896195e15daa88341cab2922faa37a32588cee17f24bcc0b510e17d",
+  "width": 640,
+  "height": 640,
+  "samples": 12,
+  "threads": 4,
+  "subdivision_render": 0,
+  "texture_limit": "512",
+  "views": [
+    {
+      "name": "02-close-flight",
+      "purpose": "Original scene at butterfly height, inspecting tree canopy and pagoda side geometry",
+      "location": [8.0, 18.0, 4.0],
+      "target": [0.0, 0.0, 7.0],
+      "lens": 32
+    },
+    {
+      "name": "03-exit-reverse",
+      "purpose": "Original scene reverse view for rear surfaces and flight-space inspection",
+      "location": [0.0, -10.0, 4.0],
+      "target": [0.0, 10.0, 7.0],
+      "lens": 28
+    }
+  ]
+}

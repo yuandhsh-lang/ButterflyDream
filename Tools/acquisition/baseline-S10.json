@@ -1,0 +1,31 @@
+{
+  "scene_id": "S10",
+  "source_sha256": "cc8cb523502fa717db6883cd13d4ca2dae7a86d5fc490a41d73255264a1eea7c",
+  "width": 640,
+  "height": 640,
+  "samples": 16,
+  "threads": 8,
+  "subdivision_render": 0,
+  "texture_limit": "1024",
+  "views": [
+    {
+      "name": "01-author",
+      "purpose": "Author main camera with original world, exposure, and color management",
+      "source_camera": "Camera"
+    },
+    {
+      "name": "02-close-flight",
+      "purpose": "Low butterfly-height approach across the water toward the arch opening",
+      "location": [3.0, -38.0, 2.0],
+      "target": [0.0, 0.0, 10.0],
+      "lens": 32
+    },
+    {
+      "name": "03-exit-reverse",
+      "purpose": "Reverse view from beyond the arch to inspect rear geometry and traversal depth",
+      "location": [-4.0, 100.0, 6.0],
+      "target": [0.0, 40.0, 15.0],
+      "lens": 30
+    }
+  ]
+}

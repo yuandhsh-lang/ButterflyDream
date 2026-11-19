@@ -1,0 +1,19 @@
+{
+  "name": "butterfly-dream-lux-authoring",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "capabilities": "node src/capabilities.ts",
+    "lux": "node src/cli.ts",
+    "test": "node --test test/*.test.ts"
+  },
+  "dependencies": {
+    "@manycore/aholo-sdk-asset": "file:../../Downloads/Aholo/aholo-sdk-asset-1.3.0.tgz",
+    "@manycore/aholo-sdk-core": "file:../../Downloads/Aholo/aholo-sdk-core-1.3.0.tgz",
+    "@manycore/aholo-sdk-lux3d": "file:../../Downloads/Aholo/aholo-sdk-lux3d-1.9.0.tgz"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "scene_id": "F09",
+  "source_sha256": "f623890cf871f6b7eb51f2b738f11a1eda9c51d8f9c67580cf7722a70a2b130e",
+  "library_relinks": {},
+  "engine_target": "Unreal Engine 5 Interchange glTF import",
+  "license": "CC BY-SA 4.0",
+  "license_evidence": "Evidence/acquisition/F09-license.json",
+  "lux3d_reuse_intent": {
+    "gate": "G01 or W01 only after real generation is available",
+    "tunnel": "T01 only after real generation is available"
+  }
+}

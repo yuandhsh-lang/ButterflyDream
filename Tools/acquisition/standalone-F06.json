@@ -1,0 +1,14 @@
+{
+  "scene_id": "F06",
+  "width": 512,
+  "height": 512,
+  "samples": 12,
+  "threads": 4,
+  "texture_limit": "512",
+  "view_transform": "AgX",
+  "look": "AgX - Very High Contrast",
+  "exposure": 0.0,
+  "gamma": 1.0,
+  "world_color": [0.21649441123008728, 0.3290594816207886, 0.7445719838142395, 1.0],
+  "world_strength": 0.699999988079071
+}

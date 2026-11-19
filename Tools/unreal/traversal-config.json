@@ -1,0 +1,12 @@
+{
+  "map": "/Game/Maps/F06_SakuraDream",
+  "out": "E:\\紫萱2版\\Evidence\\Unreal\\Traversal\\f06-traversal.json",
+  "shot_dir": "E:\\ButterflyDream_LuxWork\\Saved\\Screenshots\\WindowsEditor",
+  "step_cm": 8.0,
+  "approach_cm": 1500.0,
+  "charge_offset_cm": 380.0,
+  "charge_timeout": 45.0,
+  "traverse_timeout": 180.0,
+  "transition_timeout": 180.0,
+  "warmup": 10.0
+}

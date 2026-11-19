@@ -1,0 +1,32 @@
+{
+  "scene_id": "S01",
+  "source_sha256": "632a560620b9f30732d9c161d1c577e09fda2b68db917eaed7bbc36d9fe2ebf1",
+  "width": 640,
+  "height": 640,
+  "samples": 12,
+  "threads": 8,
+  "subdivision_render": 0,
+  "texture_limit": "512",
+  "library_relinks": {
+    "compositing_nodes_essentials.blend": "E:\\紫璇黑客松\\.tools\\blender-5.2.4-windows-x64\\5.2\\datafiles\\assets\\nodes\\compositing_nodes_essentials.blend"
+  },
+  "views": [
+    {
+      "name": "01-author",
+      "purpose": "Author main camera with original world, lighting, exposure, and color management",
+      "source_camera": "Camera"
+    },
+    {
+      "name": "02-close-flight",
+      "purpose": "Second author camera used as a close-range geometry and material inspection view",
+      "source_camera": "Camera.001"
+    },
+    {
+      "name": "03-exit-reverse",
+      "purpose": "Reverse view from approximately 20 metres along the author camera forward axis",
+      "location": [-0.475, 3.68, 3.25],
+      "target": [-12.308, 19.801, 2.736],
+      "lens": 25
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "scene_id": "F06",
+  "source_sha256": "da032cdef896195e15daa88341cab2922faa37a32588cee17f24bcc0b510e17d",
+  "library_relinks": {},
+  "engine_target": "Unreal Engine 5 Interchange glTF import",
+  "license": "Blendkit Royalty Free",
+  "license_evidence": "Evidence/acquisition/F06-license.json",
+  "lux3d_reuse_intent": {
+    "gate": "G02 only after real generation is available",
+    "tunnel": "T01 only after real generation is available"
+  }
+}
